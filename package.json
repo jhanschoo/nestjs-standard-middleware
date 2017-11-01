@@ -1,0 +1,50 @@
+{
+  "name": "nestjs-standard-middleware",
+  "version": "1.2.4",
+  "description": "Boilerplate for including standard ExpressJS middleware into a NestJS project as a submodule in a NestJS paradigm.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhanschoo/nestjs-standard-middleware.git"
+  },
+  "keywords": [
+    "nestjs",
+    "express",
+    "middleware",
+    "compression",
+    "cors",
+    "helmet",
+    "json",
+    "serve-favicon",
+    "urlencoded",
+    "body-parser"
+  ],
+  "author": "Johannes Choo",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/jhanschoo/nestjs-standard-middleware/issues"
+  },
+  "homepage": "https://github.com/jhanschoo/nestjs-standard-middleware#readme",
+  "dependencies": {
+    "@nestjs/common": "^4.1.1",
+    "compression": "^1.7.1",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "helmet": "^3.9.0",
+    "reflect-metadata": "^0.1.10",
+    "serve-favicon": "^2.4.5"
+  },
+  "devDependencies": {
+    "@types/compression": "0.0.34",
+    "@types/cors": "^2.8.1",
+    "@types/express": "^4.0.39",
+    "@types/helmet": "0.0.37",
+    "@types/serve-favicon": "^2.2.29",
+    "typescript": "^2.6.1"
+  }
+}

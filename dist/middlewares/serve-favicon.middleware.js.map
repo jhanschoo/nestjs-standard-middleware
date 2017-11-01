@@ -1,0 +1,1 @@
+{"version":3,"file":"serve-favicon.middleware.js","sourceRoot":"","sources":["../../src/middlewares/serve-favicon.middleware.ts"],"names":[],"mappings":";;;;;;;;AAAA,2CAA4D;AAC5D,yCAAyC;AAGzC,IAAa,sBAAsB,GAAnC;IACS,OAAO,CACZ,IAAY,EACZ,OAEC;QAED,MAAM,CAAC,OAAO,CAAC,IAAI,EAAE,OAAO,CAAC,CAAC;IAChC,CAAC;CACF,CAAA;AATY,sBAAsB;IADlC,mBAAU,EAAE;GACA,sBAAsB,CASlC;AATY,wDAAsB"}
